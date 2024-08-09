@@ -1,0 +1,14 @@
+{
+  "name": "packet-1",
+  "ver": "1.10",
+  "targets": [
+    "./archive_this1/test.txt",
+    "./archive_this2/tmptest.tmp"
+  ],
+  "packets": [
+    {
+      "name": "packet-3",
+      "ver": "<=2.0"
+    }
+  ]
+}
